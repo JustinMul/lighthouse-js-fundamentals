@@ -25,5 +25,5 @@ if(temperature<-40|| temperature>40){
 const raining = true
 
 if (!raining){
-  console.log('Leave your umbrella at home!')
+  console.log('Leave your umbrella')
 }
